@@ -1,0 +1,36 @@
+H1 {
+    font-size: 200%;
+    font-family: Helvetical;
+    color: #110e10;
+    background-color: #c98f5a;
+}
+p {
+    text-align:justify;
+}
+p.cite {
+    color:black;
+    margin-left:20px;
+    border-left:1px solid black;
+    padding-left:15px;
+}
+
+* {
+    background-color: rgb(230, 184, 146);
+    color: rgb(22, 20, 19);
+}
+
+.outline {
+    border: 1px solid rgb(241, 145, 90);
+    padding: 0 10px;
+    width: 500px;
+}
+
+table {
+    margin-top: 20px;
+    border: 2px solid rgb(245, 147, 82);
+    width: 60%;
+}
+
+th, td {
+  border: 2px solid rgb(231, 135, 70);
+}
